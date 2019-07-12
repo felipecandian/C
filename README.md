@@ -1,4 +1,14 @@
+/***********************************************************
+*@felipecandian
+*
+*
+*///////////////////////////////////////////////////////////*
+
+
 # C
 Language C // Linguagem C
 
-Arquivos de aprendizado da linguagem C
+Programas em C ao decorrer da graduação de Ciência da Computação 2017 - 2020
+
+
+
